@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kingstertime" target="_blank">Kirill</a> 
-<img src="https://raw.githubusercontent.com/kingstertime/kingstertime/main/Hi.gif" height="32"/></h1>
+<img src="https://raw.githubusercontent.com/kingstertime/kingstertime/main/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">Computer science student, Mobile Developer from Russia 🇷🇺</h3>
 
 ![image](https://www.codewars.com/users/kingstertime/badges/small)
