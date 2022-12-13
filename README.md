@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kingstertime" target="_blank">Kirill</a> 
+<img src="https://raw.githubusercontent.com/kingstertime/kingstertime/main/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, Mobile Developer from Russia 🇷🇺</h3>
+
 ![image](https://www.codewars.com/users/kingstertime/badges/small)
 <!--
 **kingstertime/kingstertime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
